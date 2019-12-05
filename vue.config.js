@@ -10,9 +10,8 @@ module.exports={
                 'views':'@/views',
                 'router':'@/router',
                 'store':'@/store'
-
-
             }
         }
-    }
+    },
+    lintOnSave:false
 }
